@@ -1,0 +1,146 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Good morning",
+                "Good evening",
+                "Is anyone there?"
+            ],
+            "responses": [
+                "Hello! How can I help you?",
+                "Hi there! What can I do for you?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Goodbye",
+                "See you later",
+                "I have to go",
+                "Talk to you later"
+            ],
+            "responses": [
+                "Goodbye! Have a great day!",
+                "See you later!"
+            ]
+        },
+        {
+            "tag": "working_hours",
+            "patterns": [
+                "What are your working hours?",
+                "When are you open?",
+                "What time do you open?",
+                "What time do you close?",
+                "Tell me your business hours"
+            ],
+            "responses": [
+                "We are open from 10 AM to 6 PM.",
+                "Our working hours are 10 AM to 6 PM."
+            ]
+        },
+        {
+            "tag": "services",
+            "patterns": [
+                "What services do you provide?",
+                "What do you offer?",
+                "Tell me about your services",
+                "What can you help me with?",
+                "Which services are available?"
+            ],
+            "responses": [
+                "We provide customer support and assistance with our products and services.",
+                "I can help you with information about our services, orders and general queries."
+            ]
+        },
+        {
+            "tag": "pricing",
+            "patterns": [
+                "How much does it cost?",
+                "What is the price?",
+                "Tell me the pricing",
+                "How much do your services cost?",
+                "What are your charges?"
+            ],
+            "responses": [
+                "Our pricing depends on the service you choose. Please tell me which service you are interested in.",
+                "Please specify the service or product for which you want pricing information."
+            ]
+        },
+        {
+            "tag": "order_status",
+            "patterns": [
+                "Where is my order?",
+                "What is my order status?",
+                "Track my order",
+                "Has my order been shipped?",
+                "When will my order arrive?"
+            ],
+            "responses": [
+                "Please provide your order ID so we can check the status.",
+                "You can track your order using your order ID."
+            ]
+        },
+        {
+            "tag": "payment",
+            "patterns": [
+                "What payment methods do you accept?",
+                "How can I pay?",
+                "Do you accept online payment?",
+                "Can I pay by card?",
+                "What payment options are available?"
+            ],
+            "responses": [
+                "We accept common online payment methods including cards and digital payments.",
+                "You can pay using the available online payment options at checkout."
+            ]
+        },
+        {
+            "tag": "refund",
+            "patterns": [
+                "How can I get a refund?",
+                "I want a refund",
+                "What is your refund policy?",
+                "Can I get my money back?",
+                "How long does a refund take?"
+            ],
+            "responses": [
+                "Please contact customer support with your order details to request a refund.",
+                "Refund requests are reviewed according to our refund policy."
+            ]
+        },
+        {
+            "tag": "contact",
+            "patterns": [
+                "How can I contact you?",
+                "What is your contact number?",
+                "How do I reach customer support?",
+                "Give me your contact details",
+                "I need to contact support"
+            ],
+            "responses": [
+                "You can contact our customer support team for further assistance.",
+                "Please use our official support channel to get in touch with us."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thank you",
+                "Thanks",
+                "Thanks a lot",
+                "I appreciate your help",
+                "That was helpful"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "Glad I could help!"
+            ]
+        }
+    ]
+}
