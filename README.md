@@ -7,7 +7,9 @@ The chatbot identifies the user's intent from their message and provides a suita
 
  Project Demo
  A short demonstration of the Customer Support Chatbot.
+ 
  https://github.com/user-attachments/assets/994530ad-b016-48fe-a2a2-54f602399c1c
+ 
 
 
 ## Project Overview
