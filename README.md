@@ -5,6 +5,10 @@ A simple **machine-learning based Customer Support Chatbot** developed as part o
 
 The chatbot identifies the user's intent from their message and provides a suitable response.
 
+ Project Demo
+ A short demonstration of the Customer Support Chatbot.
+
+
 ## Project Overview
 
 The chatbot can handle common customer-support queries related to:
